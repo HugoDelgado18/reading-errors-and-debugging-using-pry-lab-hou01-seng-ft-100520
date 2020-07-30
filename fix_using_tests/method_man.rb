@@ -5,12 +5,12 @@ def start_game(player1, player2)
   player1 = "Rocky"
   player2 = "Bullwinkle"
   greetings = "Hello #{player1} & #{playar2}"
-  print greetings
+  puts greetings
 end
 
 def play_game(player1, player2)
   player1 = "Jay-Z"
   player2 = "Beyonce"
-  greetings = "#{player1} is better than #{player2}"
-  print greetings
+  statement = "#{player1} is better than #{player2}"
+  puts statement
 end
