@@ -2,6 +2,8 @@
 
 def start_game(player1, player2)
   binding.pry
+  player1 = "Rocky"
+  player2 = "Bullwinkle"
   "Hello #{player1} & #{playar2}"
 end
 
