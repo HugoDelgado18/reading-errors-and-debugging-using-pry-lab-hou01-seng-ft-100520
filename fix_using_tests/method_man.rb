@@ -3,11 +3,13 @@
 def start_game(player1, player2)
   player1 = "Rocky"
   player2 = "Bullwinkle"
-  puts "Hello #{player1} & #{playar2}"
+  greetings = "Hello #{player1} & #{playar2}"
+  puts greetings
 end
 
 def play_game(player1, player2)
   player1 = "Jay-Z"
   player2 = "Beyonce"
-  puts "#{player1} is better than #{player2}"
+  greetings = "#{player1} is better than #{player2}"
+  puts greetings
 end
