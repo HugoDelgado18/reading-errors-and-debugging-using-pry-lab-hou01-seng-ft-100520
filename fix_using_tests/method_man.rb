@@ -4,8 +4,8 @@ def start_game(player1, player2)
   binding.pry
   player1 = "Rocky"
   player2 = "Bullwinkle"
-  greetings = "Hello #{player1} & #{playar2}"
-  puts greetings
+  puts "Hello #{player1} & #{playar2}"
+
 end
 
 def play_game(player1, player2)
